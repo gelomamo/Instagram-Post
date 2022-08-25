@@ -11,23 +11,25 @@ body{
 }
 .perfil{
     float: left;
-    margin-top: 20px;
     width: 70px;
     text-align: center;
     font-size: 55px;
+    margin-top: center;
 }
+
+.icono-instagram{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+}
+
 .titulo{
     float: left;
     font-size: 20px;
     overflow: hidden;
-    margin-top: 25px;
+    margin-top: 30px;
 }
-.subtitulo{
-    float: left;
-    position: relative;
-    top: 35px;
-    right: 65px;
-}
+
 .mas{
     float: right;
     margin-top: 30px;
@@ -40,9 +42,8 @@ body{
 .acciones{
     margin:20px;
 }
-.acciones a{
-    color: #000000;
-    font-size: 30px;
+.imagen-perros {
+    width: 100%;
 }
 .etiquetar{
     float: right;
